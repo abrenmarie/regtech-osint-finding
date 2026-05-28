@@ -1,0 +1,12 @@
+.env
+venv/
+*.pyc
+__pycache__/
+.DS_Store
+*.db
+```text
+regtech_data.db
+.streamlit/
+*.log
+history/
+.vscode/

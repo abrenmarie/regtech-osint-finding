@@ -1,0 +1,4 @@
+{
+  "ru": { "title": "Анализ цифрового следа", "button": "ЗАПУСТИТЬ", "target": "Тип зацепки" },
+  "en": { "title": "Digital Footprint Analysis", "button": "RUN", "target": "Target type" }
+}
